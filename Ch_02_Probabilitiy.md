@@ -34,9 +34,3 @@ Thus, the mean is **3**, as illustrated in **Figure 2-2**.
 
 ---
 
-## 🚀 Key Takeaways for Using Formulas
-- **🔎 Identify symbols**: Understand what each symbol represents and the operations required.
-- **🧩 Substitute values**: Replace the variables with the corresponding values.
-- **✅ Perform operations**: Follow the instructions to compute the result.
-
-📘 As you advance in statistics, you’ll encounter more complex formulas, but the approach remains consistent: break it into understandable parts, substitute, and compute!
