@@ -73,3 +73,34 @@
 | Volunteer Bias            | Bias introduced when study participants differ systematically from non-participants.| Participants in TV call-in polls are not representative of all viewers.| Results skewed towards characteristics of volunteers.| 
 | Likert Scale              | A scale with ordered responses to measure attitudes or opinions.        | "Strongly Agree" to "Strongly Disagree" on a survey question.| Produces ordinal data, suitable for ranking but not precise interval-based calculations.| 
 | Dewey Defeats Truman      | Historical election misprediction due to sample bias                    | 1936 Literary Digest poll excluding low-income households.| Demonstrates the consequences of biased sampling on statistical predictions.| 
+
+
+
+| Concept                    | Key Idea                                                    | Example                                                   | Takeaway                                                             |
+|---------------------------|------------------------------------------------------------|-----------------------------------------------------------|----------------------------------------------------------------------|
+| Nominal Data              | Categories without order.                                  | Gender coded as 0 (Female) and 1 (Male).                 | Simplifies classification but no mathematical meaning.               |
+| Ordinal Data              | Ordered categories without equal intervals.                | Burn degrees: 1st, 2nd, 3rd.                              | Suitable for ranking but not arithmetic.                             |
+| Interval Data             | Ordered data with equal intervals, no true zero.          | Temperature in Fahrenheit.                                | Addition/subtraction valid, not ratios.                              |
+| Ratio Data                | Ordered data with equal intervals and true zero.           | Weight, height, income.                                   | Allows all mathematical operations.                                   |
+| Continuous Data           | Data with infinite possible values in a range.            | Distance, temperature.                                    | Precise measurements for detailed analysis.                          |
+| Discrete Data             | Data with specific, distinct values.                       | Number of children.                                       | Simplifies counts but lacks granularity.                             |
+| Operationalization         | Defining how to measure abstract concepts.                | Measuring intelligence with IQ tests.                     | Makes abstract concepts measurable but may introduce errors.         |
+| Proxy Measurement         | Substituting easier measures for harder ones.             | Breathalyzer for blood alcohol content.                   | Simplifies but risks reduced accuracy.                               |
+| Surrogate Endpoints       | Substituting clinical outcomes in studies.                 | Tumor shrinkage for survival in cancer trials.            | Speeds trials but may not reflect real outcomes.                     |
+| True and Error Scores     | Observed score = true score + error.                      | A scale showing 120 lbs when true weight is 118 lbs.     | Highlights the importance of minimizing errors.                      |
+| Random Error              | Error due to chance, cancels out over time.               | A scale fluctuating slightly around the true weight.      | Reduces precision; manageable with better tools.                     |
+| Systematic Error          | Consistent error with identifiable causes.                 | A scale consistently 5 lbs off.                           | Skews results unless corrected.                                      |
+| Reliability               | Consistency of measurement.                                | Repeatedly weighing an object gives similar results.      | Reliable results are repeatable but not necessarily accurate.        |
+| Validity                  | Whether a test measures what it’s supposed to measure.    | A math test only containing math-related questions.       | Ensures meaningful and accurate interpretations.                     |
+| Triangulation             | Using multiple methods to measure the same thing.         | Assessing student ability with grades, tests, and essays.  | Reduces individual measurement errors.                                |
+| Measurement Bias          | Systematic error in collecting or analyzing data.         | Faulty surveys overestimating program success.            | Undermines study conclusions; must be addressed.                     |
+| Selection Bias            | Non-representative samples.                                | Alumni salary surveys excluding low-income earners.       | Results fail to generalize to the population.                        |
+| Nonresponse Bias          | Skewed results due to non-participants.                   | Poor graduates not responding to salary surveys.          | Missing responses lead to misleading conclusions.                    |
+| Informative Censoring     | Non-random dropouts affecting study outcomes.              | Students leaving an ineffective program.                   | Overestimates success; final pool becomes biased.                    |
+| Social Desirability Bias   | Respondents giving answers to appear favorable.            | Employees overstating healthy habits after wellness programs.| Overestimates intervention effectiveness.                             |
+| Interviewer Bias          | Interviewers influencing responses unintentionally.        | Probing more with cancer patients about exposure history.| Skews collected data and associations.| 
+| Recall Bias               | Memory differences affecting data accuracy.                | Mothers recalling exposures after miscarriage, less after normal birth.| Overemphasizes certain exposures, distorting findings.| 
+| Detection Bias            | Unequal likelihood of detecting an outcome across groups.  | Higher steroid detection in elite vs. amateur athletes.| Observed rates may not reflect actual usage.| 
+| Volunteer Bias            | Differences between participants and non-participants.    | TV poll respondents not representing all viewers.| Limits generalizability of findings.| 
+| Likert Scale              | Ordered scale for opinions or attitudes.                   | "Strongly Agree" to "Strongly Disagree" on a survey.| Produces ordinal data, useful for ranking but not precise calculations.| 
+| Dewey Defeats Truman      | Historical election misprediction due to biased sampling   | 1936 Literary Digest poll excluding low-income voters.| Demonstrates how biased samples can lead to false predictions.| 
