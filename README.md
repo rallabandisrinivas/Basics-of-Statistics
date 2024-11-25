@@ -76,6 +76,8 @@
 
 
 
+# **🦅 Birds Eye View of the Summary**
+
 | Concept                    | Key Idea                                                    | Example                                                   | Takeaway                                                             |
 |---------------------------|------------------------------------------------------------|-----------------------------------------------------------|----------------------------------------------------------------------|
 | Nominal Data              | Categories without order.                                  | Gender coded as 0 (Female) and 1 (Male).                 | Simplifies classification but no mathematical meaning.               |
