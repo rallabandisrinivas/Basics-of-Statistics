@@ -179,7 +179,7 @@ Events can be combined using:
 
 ---
 
-### 🎯 **Key Takeaways**
+### 🎯 **Key Takeaway**
 - Venn diagrams are **simple yet powerful tools** to illustrate relationships.
 - Their adaptability makes them relevant across disciplines beyond mathematics, from logic to literature.
 - John Venn’s work continues to influence how we visualize and think about connections between ideas.
