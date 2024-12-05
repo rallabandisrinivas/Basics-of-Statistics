@@ -5,7 +5,7 @@ The arithmetic mean, commonly referred to as the **average**, is a fundamental c
 
 ## 🧮 Formula for the Mean
 
-The formula may look complex at first glance, but it’s just a step-by-step guide to calculate the mean:
+The formula may look complex at first glance, but it’s just a step-by-step guide to calculate the mean:-
 
 ### **Formula Explanations:**
 1. **x**: Represents the numbers for which the mean is being calculated.
