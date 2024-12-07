@@ -34,7 +34,7 @@ Perform the calculation:
 Thus, the mean is **3**, as illustrated in **Figure 2-2**.
 
 ---
-# 🎲 Basic Definitions: Probability Concepts
+# 🎲 Basic Definitions: Probability Concept
 
 Understanding probability requires familiarity with a few key concepts. Here’s a breakdown:
 
