@@ -11,7 +11,7 @@ The formula may look complex at first glance, but it’s just a step-by-step gui
 1. **x**: Represents the numbers for which the mean is being calculated.
 2. **x̄** (read as "x-bar"): The mean or average of the values of x.
 3. **xi** (read as "x sub i"): An individual value in the set of x.
-4. **n**: The total number of values in the dataset.
+4. **n**: The total number of values in the datasets.
 5. **Σ** (summation symbol): Indicates summing all specified values, from the first value (x₁) to the last value (xn).
 
 🔢 **The Process:**
