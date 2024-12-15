@@ -1,7 +1,7 @@
 # 📊 Understanding the Arithmetic Mean Formula
 
 The arithmetic mean, commonly referred to as the **average**, is a fundamental concept in statistics. Let’s break down the formula for calculating the mean, as shown in **Figure 2-1**:
-![Alt text](images/Fig_2_1.png) 
+![Alt text](images/Fig_2_1.png)  
 
 ## 🧮 Formula for the Mean
 
