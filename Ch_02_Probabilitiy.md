@@ -3,7 +3,7 @@
 The arithmetic mean, commonly referred to as the **average**, is a fundamental concept in statistics. Let’s break down the formula for calculating the mean, as shown in **Figure 2-1**:
 ![Alt text](images/Fig_2_1.png)  
 
-## 🧮 Formula for the Mean 
+## 🧮 Formula for the Mean  
 
 The formula may look complex at first glance, but it’s just a step-by-step guide to calculate the mean:-
  
