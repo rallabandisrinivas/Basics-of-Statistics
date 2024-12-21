@@ -18,7 +18,7 @@ The formula may look complex at first glance, but it’s just a step-by-step gui
 1. Add all the values of **x** together (Σxi).
 2. Divide the total by the number of values (**n**).  
    *(Multiplying by \( \frac{1}{n} \) is equivalent to dividing by n.)*
-
+ 
 ---
 
 ## 🎯 Example: Calculating the Mean of Three Numbers
