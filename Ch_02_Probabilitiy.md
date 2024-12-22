@@ -14,7 +14,7 @@ The formula may look complex at first glance, but it’s just a step-by-step gui
 4. **n**: The total number of values in the datasets.
 5. **Σ** (summation symbol): Indicates summing all specified values, from the first value (x₁) to the last value (xn).
 
-🔢 **The Process:**
+🔢 **The Process:** 
 1. Add all the values of **x** together (Σxi).
 2. Divide the total by the number of values (**n**).  
    *(Multiplying by \( \frac{1}{n} \) is equivalent to dividing by n.)*
