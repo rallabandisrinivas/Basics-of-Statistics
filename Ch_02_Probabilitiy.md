@@ -7,7 +7,7 @@ The arithmetic mean, commonly referred to as the **average**, is a fundamental c
 
 The formula may look complex at first glance, but it’s just a step-by-step guide to calculate the mean:-
  
-### **Formula Explanations:**
+### **Formula Explanations:** 
 1. **x**: Represents the numbers for which the mean is being calculated.
 2. **x̄** (read as "x-bar"): The mean or average of the values of x.
 3. **xi** (read as "x sub i"): An individual value in the set of x.
